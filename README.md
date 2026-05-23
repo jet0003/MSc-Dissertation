@@ -33,7 +33,7 @@ MSc-Dissertation/
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 ### **1. Cross‑validated training**
 - 5‑fold stratified CV  
@@ -70,6 +70,6 @@ MSc-Dissertation/
 - Nearest‑neighbour contrastive pairs  
 
 
-## 📄 License
+## License
 
 This project is for academic and demonstration purposes.
